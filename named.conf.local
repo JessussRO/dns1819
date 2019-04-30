@@ -6,6 +6,7 @@
 // organization
 //include "/etc/bind/zones.rfc1918";
 
+//Comentario de git 1
 zone clasedaw.com {
 	type master;
 	file "/etc/bind/db.practicadaw.net";
